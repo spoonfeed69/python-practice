@@ -1,3 +1,3 @@
 # python-practice
 Just for practice
-dummy values here
+This is a python practice repository from https://www.practicepython.org/
